@@ -1,64 +1,62 @@
+<div align="center">  
+
 # Hi there, I am Abdul-Mumin Awinaba 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/awinabaab?label=Follow&style=social)](https://github.com/awinabaab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mumin-awinaba-664683311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-mumin-awinaba-664683311)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdul_mumin_aw)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdulmuminawinaba1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awinabaab@gmail.com)  
 
-I'm a **Computer Engineer** with a passion for **electronics**, **embedded systems**, **computer architecture**, **operating systems**, **computer networking**, and **database systems**. I enjoy building, automating, and optimizing systems. I love building things that make a difference and sharing what I learn with the community.
+**Distributed Backend Engineer | Building High-Performance Go Services | Observability, Scalability & Cloud-Native Architecture**  
 
 ---
 
-## 🛠️ Tech Stack
+**I specialize in the Go ecosystem, building resilient core infrastructure designed to handle millions of requests and survive the inevitable failures of distributed environments.**
 
-**Languages**:  
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+> **The Ignition:** My fascination with backend engineering started with a simple question: *How does the internet stay up when things break?* I became focused on the distributed architecture and fault-tolerance strategies required to maintain service availability during network instability and system failures
 
-**Frameworks & Libraries**:  
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+---
 
-**Databases**:  
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+</div>
 
-**Tools & Platforms**:  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)  
-![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx)  
-![HAProxy](https://img.shields.io/badge/HAProxy-lightgrey?style=flat-square)  
-![Datadog](https://img.shields.io/badge/-Datadog-black?style=flat-square&logo=datadog)  
-![Puppet](https://img.shields.io/badge/Puppet-302B6D?style=flat-square&logo=puppet&logoColor=white)
+## 🛠️ Specialized Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Core Systems** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat) |
+| **Cloud-Native** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat) |
+| **Reliability** | ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat) |
+
+---
+
+## 🧪 Engineering Lab (Proof of Concept)
+
+*I am currently architecting the following distributed primitives to demonstrate production-ready patterns:*
+
+* 🚀 **Go-Proxy**: A high-performance L7 Load Balancer featuring **Active Health Checks** and **Circuit Breaking**.
+* 🔄 **Task-Distributor**: A gRPC-based Master/Worker system with **Worker Heartbeat Monitoring**.
+* 📊 **Distro-Observer**: An observability agent for **Structured Logging** and **Prometheus Metric Exporting**.
 
 ---
 
 ## 📊 GitHub Stats & Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awinabaab&show_icons=true&theme=transparent&hide_title=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awinabaab&layout=compact&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=awinabaab&theme=transparent&hide_border=true)  
+---
+
+## 📫 Let's Connect
+
+I am actively seeking **Backend or Infrastructure** roles where I can contribute to building stable, scalable systems. Whether you have a question about my projects, want to collaborate on a Go service, or just want to talk systems design—let's chat.
+
+| Channel | Contact/Handle |
+| :--- | :--- |
+| 📧 **Email** | [awinabaab@gmail.com](mailto:awinabaab@gmail.com) |
+| 💼 **LinkedIn** | [Abdul-Mumin Awinaba](https://linkedin.com/in/abdul-mumin-awinaba) |
+| 🐦 **X (Twitter)** | [@abdul_mumin_aw](https://x.com/abdul_mumin_aw) |
+| ✍️ **Medium** | [Read my technical articles](https://medium.com/@abdulmuminawinaba1) |
 
 ---
 
-## 📫 How to reach me
-
-📧 Email: [awinabaab@gmail.com](mailto:awinabaab@gmail.com)  
-🔗 LinkedIn: [Abdul-Mumin Awinaba](https://linkedin.com/in/abdul-mumin-awinaba-664683311)  
-📱 Twitter: [@awinaba37449](https://twitter.com/awinaba37449)  
-✍️ Medium: [https://medium.com/@abdulmuminawinaba1](https://medium.com/@abdulmuminawinaba1)  
-
----
-
-> ⚡️ Thanks for stopping by! If you liked what you saw, feel free to connect or follow — contributions and collaboration welcome!
+> ⚡️ **"Resilience is not the absence of failure, but the ability to handle it gracefully."** > Always open to collaborating on open-source cloud-native projects.
